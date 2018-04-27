@@ -12,7 +12,12 @@
   limitations under the License. See accompanying LICENSE file.
 --->
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-plugin-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-plugin-api?ref=badge_large)
+
 # Streamsets Plugin API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-plugin-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-plugin-api?ref=badge_shield)
+
 Streamsets Data Collector allows users to drop in jars that can plug into stage libraries.
 
 This repository contains APIs that code that plugs into various stage libraries
